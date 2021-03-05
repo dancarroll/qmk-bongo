@@ -3,3 +3,4 @@ Simple utility for rendering Bongo Cat to a 128x32 OLED display on a keyboard ru
 
 
 Reference: https://github.com/qmk/qmk_firmware/blob/master/keyboards/kyria/keymaps/j-inc/keymap.c
+OLED designer: https://joric.github.io/qle/
